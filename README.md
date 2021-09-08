@@ -10,7 +10,7 @@
 
 #Programming-language:
 
-1) Go - 
+1) Go:
 
     Learning Go - An Idiomatic Approach by Jon Bodner
 
@@ -38,11 +38,16 @@
 
 Video:
 
-    (UDACITY) Introduction to Operating Systems(FREE) - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
+    (UDACITY) Introduction to Operating Systems(FREE) - 
+    
+    https://br.udacity.com/course/introduction-to-operating-systems--ud923/
 
-    (UDACITY) Advanced Operating Systems(FREE) - https://br.udacity.com/course/advanced-operating-systems--ud189/
+    (UDACITY) Advanced Operating Systems(FREE) - 
+    
+    https://br.udacity.com/course/advanced-operating-systems--ud189/
 
     (COURSERA) Operating Systems and You: Becoming a Power User(PAID/Financial Aid)
+    
     https://www.coursera.org/learn/os-power-user/
 
 
