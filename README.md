@@ -8,6 +8,30 @@
 Book - Data structures and algorithms in  JAVA/C++/Python
 Writer: Michael T. Goodrich
 
+#Programming-language:
+
+1) Go - 
+
+Learning Go - An Idiomatic Approach
+Book by Jon Bodner
+
+Cloud Native Go
+Book by Matthew A. Titmus
+
+DOCS:
+
+Quick tour - https://tour.golang.org/
+Language Specification - https://golang.org/ref/spec
+Effective Go - https://golang.org/doc/effective_go
+Blog - yourbasic.org 
+
+2) Python -
+
+Automate the Boring Stuff with Python
+Book by Al Sweigart
+
+https://automatetheboringstuff.com/
+
 #Operating-Systems:
 
 Video -
