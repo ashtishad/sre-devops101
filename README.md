@@ -67,5 +67,39 @@ BOOK:
     https://www.coursera.org/learn/computer-networking
 
     (Book) Understanding Linux Network Internals - http://shop.oreilly.com/product/9780596002558.do
+    
+    
+#Understanding-the-culture
+---------------------------
+
+(NOVEL) The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win by Gene Kim, George Spafford, and Kevin Behr
+
+(BOOK) Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+
+(BOOK) The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis
+
+(BOOK) Site Reliability Engineering: How Google Runs Production Systems by Betsy Beyer, Jennifer Petoff, Niall Richard Murphy
+
+        
+
+GOOGLE: 
+
+        SRE:    https://sre.google/resources/
+
+NETFLIX: 
+
+        DEVOPS: https://www.youtube.com/watch?v=UTKIT6STSVM
+        SRE:    https://www.youtube.com/watch?v=lZI51YzIgVE
+        
+FACEBOOK:
+
+        SRE: https://www.facebook.com/notes/facebook-engineering/site-reliability-engineering-at-facebook/291616313919/
+        
+UBER:
+        
+        SRE: https://www.youtube.com/watch?v=qJnS-EfIIIE
+        
+
+
 
 [ To Be Continued ]
