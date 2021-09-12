@@ -18,8 +18,8 @@ Programming languages
 - [Quick tour](https://tour.golang.org/)
 - [Language Specification](https://golang.org/ref/spec)
 - [Effective Go](https://golang.org/doc/effective_go)
-- [yourbasic.org](yourbasic.org)
-- [Go By Example]https://gobyexample.com/
+- [(Blog)Your Basic](yourbasic.org)
+- [(Blog)Go By Example](https://gobyexample.com/)
 
 
 **Python**
