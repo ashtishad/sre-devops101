@@ -22,6 +22,7 @@ Programming languages
 - [(Blog)Your Basic](yourbasic.org)
 - [(Blog)Go By Example](https://gobyexample.com/)
 - [(Resources)Curated Go Resources](https://hackr.io/tutorials/learn-golang)
+- [(Blog)Build web appliations with golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 
 
 **Python**
