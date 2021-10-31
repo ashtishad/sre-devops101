@@ -15,12 +15,13 @@ Programming languages
 **Go**
 - [Learning Go - An Idiomatic Approach by Jon Bodner](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
 - [Cloud Native Go by Matthew A. Titmus](https://www.oreilly.com/library/view/cloud-native-go/9781492076322)
-- [Hands-On System Programming with Go](https://www.packtpub.com/product/hands-on-systems-programming-with-go/9781789804072)
+- [Ultimate Go Notebook](https://www.amazon.com/dp/1737384426/)
 - [Quick tour](https://tour.golang.org/)
 - [Language Specification](https://golang.org/ref/spec)
 - [Effective Go](https://golang.org/doc/effective_go)
 - [(Blog)Your Basic](yourbasic.org)
 - [(Blog)Go By Example](https://gobyexample.com/)
+- [(Resources)Curated Go Resources](https://hackr.io/tutorials/learn-golang)
 
 
 **Python**
